@@ -47,7 +47,7 @@ function App() {
       <div className='gameBoard'>
         {lights.map((light, index) => <Square key={'square_'+index} isLit={light} onClick={() => handleClick(index)}></Square>)}
       </div>
-      <h1>{status}</h1>
+      <h3>{status}</h3>
       <p>{instructions}</p>
     </div>
   );
