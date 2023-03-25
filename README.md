@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My 4th React App. A variant of Lights Out, originally released by Tiger Electronics in 1995. Whereas the original version of this game is played on a 5x5 grid, I chose a 6x6 grid because a 6x6 grid is solvable for all initial configurations of lights while a 5x5 is not. There's an interesting article here about determining the solvability of Lights Out grids by shape https://imois.in/posts/the-properties-of-lights-out-the-game/ using matrix nullity
 
 ## Available Scripts
 
